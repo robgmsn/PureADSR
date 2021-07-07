@@ -4775,7 +4775,7 @@ Standard 6 pin header for AVR programming</description>
 <part name="SUSTAIN" library="GMSN" library_urn="urn:adsk.eagle:library:27425118" deviceset="RESISTOR_VARIABLE" device="9MM_POT" package3d_urn="urn:adsk.eagle:package:27425927/2" value="100k"/>
 <part name="RELEASE" library="GMSN" library_urn="urn:adsk.eagle:library:27425118" deviceset="RESISTOR_VARIABLE" device="9MM_POT" package3d_urn="urn:adsk.eagle:package:27425927/2" value="100k"/>
 <part name="GND9" library="GMSN" library_urn="urn:adsk.eagle:library:27425118" deviceset="GND" device=""/>
-<part name="T1" library="GMSN" library_urn="urn:adsk.eagle:library:27425118" deviceset="TRANSISTOR_NPN" device="MMBT2222A" package3d_urn="urn:adsk.eagle:package:27426301/1" value="MMBT2222A"/>
+<part name="T1" library="GMSN" library_urn="urn:adsk.eagle:library:27425118" deviceset="TRANSISTOR_NPN" device="MMBT2222A" package3d_urn="urn:adsk.eagle:package:27426301/1" value="2N3904"/>
 <part name="GND10" library="GMSN" library_urn="urn:adsk.eagle:library:27425118" deviceset="GND" device=""/>
 <part name="R5" library="GMSN" library_urn="urn:adsk.eagle:library:27425118" deviceset="RESISTOR_US" device="R0805" package3d_urn="urn:adsk.eagle:package:27425978/1" value="10k"/>
 <part name="R6" library="GMSN" library_urn="urn:adsk.eagle:library:27425118" deviceset="RESISTOR_US" device="R0805" package3d_urn="urn:adsk.eagle:package:27425978/1" value="100k"/>
